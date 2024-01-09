@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://olo4donline.ellis3dp.com/sitemap.xml
+Sitemap : http://boss88.pw.arrayfire.org/sitemap.xml
